@@ -84,6 +84,7 @@ If this index is useful as a reference for structuring your own C learning path,
 ## 📫 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdullahaljehan--me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahaljehan-me)
+[![Gmail](https://img.shields.io/badge/Gmail-ABDULLAH.AL.JEHAN-D14836?logo=gmail&logoColor=white)](https://github.com/abdullahaljehan-me)
 
 ---
 
