@@ -9,7 +9,7 @@ Each project is designed to reinforce core concepts such as memory management, p
 ## 📂 Project Directory
 
 ### 🎮 Games & Simulations
-* **[Magic Guess Game](#)** — Random number guessing with attempts, hints, difficulty levels, and score tracking.
+* **[Magic Guess Game](https://github.com/abdullahaljehan-me/guess-number-c)** — Random number guessing with attempts, hints, difficulty levels, and score tracking.
 * **[Tic-Tac-Toe](#)** — Two-player board game using 2D arrays, functions, and win/draw detection.
 * **[Snake Game](#)** — Real-time game loop, keyboard input, collision detection, scoring, and difficulty levels.
 * **[Maze Solver](#)** — Pathfinding via DFS/BFS, stacks/queues, backtracking, and path reconstruction.
