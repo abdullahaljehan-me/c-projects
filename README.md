@@ -16,7 +16,7 @@ Each project is designed to reinforce core concepts such as memory management, p
 * **[Sudoku Solver](#)** — Recursive backtracking with constraint checking over a 9x9 board.
 
 ### ⚙️ Systems & Utilities
-* **[Digital Clock & Timer](#)** — Real-time clock, countdown, stopwatch, and alarms using C time functions.
+* **[Digital Clock & Timer](https://github.com/abdullahaljehan-me/digital-clock-c)** — Real-time clock, countdown, stopwatch, and alarms using C time functions.
 * **[Calendar Application](#)** — Monthly/yearly calendar generation, leap-year detection, and weekday calculation.
 * **[Custom Memory Allocator](#)** — Implementation of custom `malloc` and `free` using a free list to understand heap management.
 * **[File Manager / Explorer](#)** — Browse, create, delete, and rename files; inspect metadata and interact with the Linux filesystem via C APIs.
@@ -24,7 +24,7 @@ Each project is designed to reinforce core concepts such as memory management, p
 * **[Mini Linux Shell](#)** — Command parsing, `fork()`/`exec()`/`wait()`, pipes, redirection, background jobs, and signals.
 
 ### 🗄️ Management Systems
-* **[Contact Management System](#)** — Add, edit, delete, search, and sort contacts using structs, arrays, and file I/O.
+* **[Contact Management System](https://github.com/abdullahaljehan-me/contact-management-system-c)** — Add, edit, delete, search, and sort contacts using structs, arrays, and file I/O.
 * **[Authentication System](#)** — Registration/login with validation, password storage, login attempts, and file persistence.
 * **[Student & Attendance Management System](#)** — Student records, attendance tracking, percentage calculation, and reports.
 * **[Library Management System](#)** — Book/member management, issue/return, catalog search, and overdue dues.
