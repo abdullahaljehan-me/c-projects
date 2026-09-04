@@ -44,7 +44,7 @@ Each project below reinforces specific fundamentals — memory management, point
 ## 🗄️ Management Systems
 
 - **[Contact Management System](https://github.com/abdullahaljehan-me/contact-management-system-c)** — Add, edit, delete, search, and sort contacts. structs · arrays · file I/O
-- **Authentication System** *(planned)* — Registration/login, password storage, attempt limits. validation · persistence
+- **[Authentication System](https://github.com/abdullahaljehan-me/authentication-system-c)**  — Registration/login, password storage, attempt limits. validation · persistence
 - **Student & Attendance System** *(planned)* — Records, attendance tracking, percentage reports. structs · reporting
 - **Library Management System** *(planned)* — Catalog search, issue/return, overdue dues. CRUD · search
 - **Bank + ATM System** *(planned)* — Account creation, PIN auth, transaction history. state machines · security basics
