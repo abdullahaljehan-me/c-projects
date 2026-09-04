@@ -35,7 +35,7 @@ Each project below reinforces specific fundamentals — memory management, point
 ## ⚙️ Systems & Utilities
 
 - **[Digital Clock & Timer](https://github.com/abdullahaljehan-me/digital-clock-c)** — Real-time clock, countdown, stopwatch, and alarms. `time.h` · real-time loops
-- **Calendar Application** *(planned)* — Monthly/yearly generation, leap-year detection, weekday calculation. date arithmetic
+- **[Calendar Application](https://github.com/abdullahaljehan-me/calendar-c)** — Monthly/yearly generation, leap-year detection, weekday calculation. date arithmetic
 - **Custom Memory Allocator** *(planned)* — Custom `malloc`/`free` implementation using a free list. heap management
 - **File Manager / Explorer** *(planned)* — Browse, create, delete, rename files; inspect metadata. Linux filesystem APIs
 - **Terminal Text Editor** *(planned)* — Cursor movement, insert/delete, buffers, undo/redo. raw terminal mode
