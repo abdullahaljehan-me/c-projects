@@ -75,21 +75,24 @@ Each project below reinforces specific fundamentals — memory management, point
 
 ## 🤝 Contributing
 
-Found a bug in one of the linked repos, or have a cleaner implementation? Issues and PRs are open. For a new project suggestion, open an issue first so scope is agreed before code gets written.
+Found a bug in one of the linked repos, or have a cleaner implementation? Issues and PRs are welcome.  
+For new project suggestions, please open an issue first so the scope can be agreed upon before code is written.
 
 ## ⭐ Support
 
-If this index is useful as a reference for structuring your own C learning path, a star helps it surface for others searching for the same thing.
+If this index is useful as a reference for structuring your own C learning path, leaving a star helps it surface for others searching for the same thing.
 
 ## 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-abdullahaljehan--me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahaljehan-me)
-[![Gmail](https://img.shields.io/badge/Gmail-ABDULLAH.AL.JEHAN-D14836?logo=gmail&logoColor=white)](https://github.com/abdullahaljehan-me)
-
----
-
 <div align="center">
 
-<sub>© 2026 abdullahaljehan-me · Licensed under MIT</sub>
+  [![GitHub](https://img.shields.io/badge/GitHub-abdullahaljehan--me-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahaljehan-me)
+  [![Gmail](https://img.shields.io/badge/Gmail-ABDULLAH.AL.JEHAN-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahaljehan.me@gmail.com)
 
+</div>
+
+<br>
+
+<div align="center">
+  <sub>© 2026 <strong>abdullahaljehan-me</strong> · Licensed under <a href="LICENSE">MIT</a></sub>
 </div>
