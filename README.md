@@ -68,7 +68,7 @@ Each project below reinforces specific fundamentals — memory management, point
 
 ## 📚 Academic & Productivity
 
-- **Exam & Quiz System** *(planned)* — Question bank, randomized questions, auto-scoring. file-backed data
+- **[Exam & Quiz System](https://github.com/abdullahaljehan-me/quiz-game-c)** — Question bank, randomized questions, auto-scoring. file-backed data
 - **CPU Scheduling Simulator** *(planned)* — FCFS, SJF, Priority, Round Robin simulation. OS scheduling · metrics
 
 ---
